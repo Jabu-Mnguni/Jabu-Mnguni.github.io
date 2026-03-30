@@ -1,5 +1,5 @@
 # Jabu-Mnguni
-**Student | ICT in Communication Networks**
+**Student |Diploma ICT in Communication Networks**
 
 📧 221258639@mycput.ac.za | 📞 +27 66 427 1216 | 📍 62 Bass Road, Belhar 6
 
