@@ -7,7 +7,7 @@
 
 ## Profile Summary
 
-Third year Information and Communication Technology student at Cape Peninsula University of Technology, specialising in communication networks. Seeking a WIL internship to strengthen practical experience in network administration, routing, switching, and IT support. Committed to learning, problem solving, and delivering efficient network solutions.
+Final year Information and Communication Technology student at Cape Peninsula University of Technology, specialising in communication networks. Seeking a WIL internship to strengthen practical experience in network administration, routing, switching, and IT support. Committed to learning, problem solving, and delivering efficient network solutions.
 
 ---
 
