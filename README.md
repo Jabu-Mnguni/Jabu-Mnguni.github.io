@@ -63,6 +63,26 @@ Grade 12
 **Mr K.M. Tshabalala** | Principal, Lesiba Secondary School | 0825529065
 
 ---
+###  Reflection on Coding in Markdown
+* **Situation:** I needed to convert my professional CV into a web-ready format for my GitHub digital portfolio.
+* **Task:** My goal was to use Markdown syntax to create a structured, readable, and professional layout that maintains hierarchy across different devices.
+* **Action:** I implemented Markdown elements such as headers (`#`, `##`) for sectioning, used bold text for emphasis, and utilized code blocks to display technical details. I also ensured that contact information and video links were correctly hyperlinked.
+* **Result:** I successfully created a clean, responsive digital presence. I learned how Markdown serves as an efficient tool for documentation and technical communication within the ICT industry.
 
+---
 ## 🎥 Mock Interview Video
 [Click here to watch my mock interview] (https://github.com/Jabu-Mnguni/Jabu-Mnguni.github.io/blob/main/mockinterview.mp4)
+
+---
+###  Reflection on Mock Interview Video Experience
+* **Situation:** As part of my work readiness training, I recorded a mock interview to simulate a real-world job application for a networking position.
+* **Task:** The objective was to demonstrate technical knowledge and professional communication skills while identifying areas for improvement in my delivery.
+* **Action:** I prepared by practicing responses using the STAR method for behavioral questions. During the recording, I focused on maintaining a professional tone and clearly articulating my experience with network design and security.
+* **Result:** Reviewing the video helped me identify the need for a more measured speaking pace. This exercise increased my confidence in presenting my skills to potential employers during a formal interview.
+
+---
+###  Reflection on the Use of GitHub Pages
+* **Situation:** To make my portfolio and work readiness evidence accessible to recruiters, I needed to host my repository as a live website.
+* **Task:** My task was to deploy my project using GitHub Pages to create a functional, public-facing URL.
+* **Action:** I configured the repository settings to enable GitHub Pages, ensuring the main branch was correctly indexed. I verified the deployment by testing the live links and ensuring the Markdown rendered properly as HTML.
+* **Result:** My portfolio is now live and professionally presented. This process taught me the fundamentals of static site hosting and the importance of version control in managing a digital professional profile.
