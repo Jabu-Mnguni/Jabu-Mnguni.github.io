@@ -1,7 +1,7 @@
 # Jabu-Mnguni
 **Student |Diploma ICT in Communication Networks**
 
-📧 221258639@mycput.ac.za | 📞 +27 66 427 1216 | 📍 62 Bass Road, Belhar 6
+📧[221258639@mycput.ac.za](mailto:221258639@mycput.ac.za)  | 📞 +27 66 427 1216 | 📍 62 Bass Road, Belhar 6
 
 ---
 
@@ -71,7 +71,7 @@ Grade 12
 
 ---
 ## 🎥 Mock Interview Video
-[Click here to watch my mock interview] (https://github.com/Jabu-Mnguni/Jabu-Mnguni.github.io/blob/main/mockinterview.mp4)
+[Click here to watch my mock interview](https://github.com/Jabu-Mnguni/Jabu-Mnguni.github.io/blob/main/mockinterview.mp4)
 
 ---
 ###  Reflection on Mock Interview Video Experience
