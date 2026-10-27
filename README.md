@@ -89,7 +89,7 @@ Grade 12
 
 ## Agile Team Charter
 
-### 1. Evidence (Signed Charter Document)
+### 1. Evidence 
 ![Team Charter Evidence](teamcharter.png)
 
 ### 1. Team Purpose & Vision
