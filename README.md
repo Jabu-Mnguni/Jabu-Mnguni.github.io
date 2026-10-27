@@ -136,3 +136,15 @@ Grade 12
 
   
 > Structuring our work into discrete sprint cycles provided clear, actionable focus areas. Moving items iteratively into specific sprint columns allowed the team to manage our workflow efficiently, ensuring steady progress toward building a functional business marketing platform.
+
+### 1. Evidence
+![Sprint Backlog Screenshot]()
+
+* **Active Sprint (Sprint 9: Website Pages Development):**
+  * **Day 1:** Design & Build Homepage & About Us Page[cite: 3]
+  * **Day 2:** Develop Products & Services Pages[cite: 3]
+  * **Day 3:** Implement Contact Page & Finalize Testing[cite: 3]
+
+### 2. Reflection
+> **Reflection:**  
+> Breaking down our website development into structured daily tasks during Sprint 9 allowed the team to deliver specific website pages (About Us, Products, Services, and Contact) incrementally[cite: 1, 3]. Using checklist criteria for each card ensured high quality, thorough testing, and steady progress toward building our business marketing platform[cite: 3].
