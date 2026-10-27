@@ -116,4 +116,19 @@ Grade 12
 
 ### 2. Reflection
 > **Reflection:**  
-> Breaking down the website development into user stories based on specific pages (About Us, Products, Services, and Contact) ensured our design remained completely user-centric. This modular approach allowed us to map individual tasks directly onto our Trello backlog, ensuring every page served a clear purpose for prospective clients
+> Breaking down the website development into user stories based on specific pages (About Us, Services and Contact) ensured our design remained completely user-centric. This modular approach allowed us to map individual tasks directly onto our Trello backlog, ensuring every page served a clear purpose for prospective clients
+
+## Product Backlog
+
+### 1. Evidence
+![Product Backlog Screenshot](./images/)
+
+
+* **Core Product Backlog Items:**
+  * Sprint 9: Create About Us Page
+  * Sprint 9: Create Services Page
+  * Sprint 9: Create Contact Page
+
+### 2. Reflection
+> **Reflection:**  
+> Maintaining a master Product Backlog on Trello allowed us to map out the entire website structure—including the About Us, Products, Services, and Contact pages. Prioritizing these items ensured that we had a clear, overarching master list of all required deliverables before breaking them down into active development cycles, preventing scope creep and keeping our business goals focused.
