@@ -87,22 +87,107 @@ Grade 12
 * **Action:** I configured the repository settings to enable GitHub Pages, ensuring the main branch was correctly indexed. I verified the deployment by testing the live links and ensuring the Markdown rendered properly as HTML.
 * **Result:** My portfolio is now live and professionally presented. This process taught me the fundamentals of static site hosting and the importance of version control in managing a digital professional profile.
 
-* ## Agile Team Charter
+## Agile Team Charter
 
-### 1. Project Purpose & Vision
-* **Vision:** To bridge the digital divide in under-resourced public high schools in Cape Town.
-* **Mission:** Providing mobile digital learning services—including hardware setup, internet access, and structured IT training (Microsoft Word, PowerPoint, coding)—for Grade 8-12 learners.
-* **Product/Service:** A business marketing website designed to showcase these services so that prospective clients and schools can view our offerings and send direct inquiries.
-* **Success Definition:** Success is achieved when the platform effectively communicates our service value and drives client inquiries.
+### 1. Team Purpose & Vision
+* **Why do we exist?:** To bridge the digital divide in under-resourced public high schools in Cape Town.
+* **Team Mission:** We are solving the lack of functional computer labs and stable internet access for Grade 8-12 learners in communities such as Khayelitsha, Mitchell's Plain, and Gugulethu.
+* **Success Definition:** Success is achieved when learners gain digital skills for university and employment, verified by their ability to use modern tools effectively.
+* **Product/Service:** Mobile digital learning services providing hardware, internet, and structured IT training (Microsoft Word, PowerPoint, coding).
 
-### 2. Working Agreements & Workflow
-* Keep the Trello Kanban board updated in real-time as tasks progress.
-* Follow the "Definition of Done" before marking any task as complete.
-* Maintain clear communication channels for managing project deliverables.
+---
 
-### 3. Reflection
+### 2. Team Members & Roles
+
+| Name | Role | Key Responsibilities |
+| :--- | :--- | :--- |
+| **Tumelo Gabriel Masilela** | Product Owner / Team Leader | Vision, backlog prioritization, and stakeholder management. |
+| **Jabu Mnguni** | Agile Lead / Researcher| Facilitating ceremonies, removing blockers, and data research. |
+| **Tiisetso Tukane** | Developer / Writer | Content creation, documentation, and technical writing. |
+| **Siphesihle Mkiva** | Designer | UX/UI design for training modules and mobile lab setups. |
+| **Pule Dzavana** | Tester / Presenter | System testing and presenting progress to schools. |
+
+---
+
+### 3. Ways of Working
+
+#### 3.1 Agile Framework
+* **Kanban:** We use Trello as our primary visual tool to manage workflow and track tasks from backlog to completion.
+
+#### 3.2 Ceremonies
+
+| Ceremony | Frequency | Purpose |
+| :--- | :--- | :--- |
+| **Daily Stand-up** | Daily (15 min) | Sync on Trello board status and address immediate blockers. |
+| **Planning** | Every 2 Weeks | Prioritize new school targets or training module development. |
+| **Review / Demo** | End of Sprint | Demonstrate completed digital skills modules or hardware setups. |
+| **Retrospective** | End of Sprint | Discuss team performance and how to improve collaboration. |
+
+---
+
+### 4. Working Agreements
+* Be punctual for all ceremonies.
+* Update Trello cards in real-time as status changes.
+* Follow the "Definition of Done" before moving any card to the final column.
+
+---
+
+### 5. Communication
+* **Primary Channels:** WhatsApp (Urgent syncs) and Trello (Project tracking/Task assignment).
+* **Response-time:** 4 hours during school hours; Trello notifications must be checked once daily.
+* **Remote Norms:** Cameras on during Review/Retrospective; documents stored on Microsoft Teams/Google Drive.
+
+---
+
+### 6. Decision-Making
+* **Method:** Decisions within "Tech Empower" are made through a consensus-based model where possible.
+* **Role-Based Decisions:** Small technical decisions are made by the specific role-owner (e.g., Siphesihle for design choices).
+* **Team-Wide Decisions:** Major changes to project scope or training content require a majority vote during Planning sessions.
+* **Tie-Breaking:** In the event of a deadlock, the Team Leader (Tumelo) has the final authority to ensure project momentum.
+
+---
+
+### 7. Definition of Done (DoD)
+Work is "Done" when:
+* The Trello card is in the "Done" column.
+* All documentation is attached to the card.
+* The Product Owner has reviewed and added a "Final Approval" comment.
+
+---
+
+### 8. Core Values & Behaviours
+* **Transparency:** Keeping the Trello board accurate so everyone knows the project status.
+* **Accountability:** Every card must have an owner responsible for its completion.
+* **Respect:** Valuing the technical expertise of all five team members.
+
+---
+
+### 9. Risks & Constraints
+* **Known Risks:** Equipment security and inconsistent school schedules.
+* **Constraints:** Academic year deliverables and limited budget for mobile data.
+
+---
+
+### 10. Review & Improvement
+* **Frequency:** This charter is reviewed at the end of every Sprint Retrospective to ensure our ways of working evolve with the team's needs.
+* **Improvement:** Any team member can propose an update to our working agreements during the retrospective session.
+
+---
+
+### 11. Team Commitment
+By working on this team, we commit to the principles and agreements outlined above.
+
+| Name | Student Number |
+| :--- | :--- |
+| **Tumelo Gabriel Masilela** | 222335726 |
+| **Jabu Mnguni** | 221258639 |
+| **Tiisetso Tukane** | 222206616 |
+| **Siphesihle Mkiva** | 219462593 |
+| **Pule Dzavana** | 222018437 |
+
+### 12. Reflection
 > **Reflection:**  
-> Establishing a clear project charter aligned our daily execution and set shared operational boundaries from day one, minimizing friction and keeping the project focused on its core mission.
+> Co-creating this Team Charter established a shared foundation for the "Tech Empower3" project, giving every team member absolute clarity on our mission to bridge the digital divide in Cape Town. Defining our core roles, structured ceremonies, and explicit "Definition of Done" ensured seamless collaboration, mutual accountability, and professional alignment across every stage of our website development.
 
 ## User Stories and Tasks
 
