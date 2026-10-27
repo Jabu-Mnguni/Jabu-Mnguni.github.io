@@ -121,7 +121,7 @@ Grade 12
 ## Product Backlog
 
 ### 1. Evidence
-![Product Backlog Screenshot](PRODUCTLOG.png)
+![Product Backlog Screenshot]()
 
 
 * **Core Product Backlog Items:**
