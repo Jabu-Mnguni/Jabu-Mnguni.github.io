@@ -224,8 +224,8 @@ By working on this team, we commit to the principles and agreements outlined abo
 
 * **Active Sprint (Sprint 9: Website Pages Development):**
   * **Day 1:** Design & Build Homepage & About Us Page
-  * **Day 2:** Develop Products & Services Pages
-  * **Day 3:** Implement Contact Page & Finalize Testing
+  * **Day 2:** Develop  Services Pages
+  * **Day 3:** Implement Contact us Page & Finalize Testing
 
 ### 2. Reflection
 > **Reflection:**  
