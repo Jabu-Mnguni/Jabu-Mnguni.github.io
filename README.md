@@ -149,3 +149,17 @@ Grade 12
 ### 2. Reflection
 > **Reflection:**  
 > Breaking down our website development into structured daily tasks during Sprint 9 allowed the team to deliver specific website pages (About Us,  Services, and Contact us) incrementally. Using checklist criteria for each card ensured high quality, thorough testing, and steady progress toward building our business marketing platform.
+
+## Agile Logbook
+
+### 1. Evidence (Daily Standup & Sprint Progress Log)
+
+| Date / Sprint | Team Member | Daily Activity / Task Completed | Blockers / Challenges | Resolution |
+| :--- | :--- | :--- | :--- | :--- |
+| **Sprint 9 - Day 1** | Team | Built the About Us page, drafting the company mission and team profiles. | Deciding on final color scheme and brand messaging. | Agreed on responsive, high-contrast theme focused on mobile learning. |
+| **Sprint 9 - Day 2** | Team | Built Products & Services pages highlighting hardware, internet, and IT training packages. | Formatting product cards for small screen sizes. | Used CSS Flexbox/Grid for mobile responsiveness. |
+| **Sprint 9 - Day 3** | Team | Created Contact Page with inquiry form and conducted end-to-end site testing. | Contact form styling alignment. | Fixed form input padding and verified submission layout. |
+
+### 2. Reflection
+> **Reflection:**  
+> Maintaining an Agile Logbook allowed us to track daily accountability and quickly surface blockers during sprint cycles. Transparent tracking ensured seamless communication across the team, keeping our website development on schedule for final submission.
