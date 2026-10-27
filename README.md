@@ -110,10 +110,10 @@ Grade 12
 
 | User Story ID | As a... (User Role) | I want to... (Action/Goal) | So that... (Benefit/Value) | Associated Tasks |
 | :--- | :--- | :--- | :--- | :--- |
-| **US01** | Prospective Client / School Principal | View the mobile digital learning services offered (hardware, internet, IT training) | I can understand how Tech Empower can support our high school. | • Design Homepage layout<br>• Write service descriptions<br>• Publish content to the site |
-| **US02** | Site Visitor | Fill out an online contact form or send a direct inquiry | I can easily reach out to book services or request a partnership. | • Build contact form UI<br>• Implement validation<br>• Test message submission |
-| **US03** | Site Administrator | Update service details and review incoming client messages | I can keep offerings current and respond to leads promptly. | • Set up backend handler<br>• Create content update workflow |
+| **US01** | Site Visitor / Client | View the **Services** and **Products** pages detailing our mobile digital learning offerings | I can understand what hardware, internet, and IT training services are available. | • Create Services Page<br>• Create Products Page<br>• Add descriptive copywriting |
+| **US02** | Prospective Partner | Navigate to the **About Us** page to read our team mission and vision | I know who is behind the initiative and our commitment to high schools | • Create About Us Page<br>• Outline community goals |
+| **US03** | Interested Client | Use the **Contact Page** to send a direct message or inquiry | I can easily reach out to book or partner with Tech Empower | • Create Contact Page<br>• Implement inquiry form functionality |
 
 ### 2. Reflection
 > **Reflection:**  
-> Breaking down development into user stories ensured that our web design remained focused on the needs of prospective clients and schools. By mapping features to specific user value, we prioritized essential services like IT training and hardware setup before adding secondary elements.
+> Breaking down the website development into user stories based on specific pages (About Us, Products, Services, and Contact) ensured our design remained completely user-centric. This modular approach allowed us to map individual tasks directly onto our Trello backlog, ensuring every page served a clear purpose for prospective clients
