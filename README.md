@@ -216,11 +216,7 @@ By working on this team, we commit to the principles and agreements outlined abo
 
 ### 2. Reflection
 > **Reflection:**  
-> Maintaining a master Product Backlog on Trello allowed us to map out the entire website structure—including the About Us, Products, Services, and Contact pages[cite: 12]. Prioritizing these items ensured that we had a clear, overarching master list of all required deliverables before breaking them down into active development cycles, preventing scope creep and keeping our business goals focused[cite: 5].
-
-
-  
-> Structuring our work into discrete sprint cycles provided clear, actionable focus areas. Moving items iteratively into specific sprint columns allowed the team to manage our workflow efficiently, ensuring steady progress toward building a functional business marketing platform.
+> Maintaining a master Product Backlog on Trello allowed us to map out the entire website structure—including the About Us, Products, Services, and Contact pages. Prioritizing these items ensured that we had a clear, overarching master list of all required deliverables before breaking them down into active development cycles, preventing scope creep and keeping our business goals focused.
 
 ## Sprint Backlog
 ### 1. Evidence
@@ -241,9 +237,9 @@ By working on this team, we commit to the principles and agreements outlined abo
 
 | Date / Sprint | Team Member | Daily Activity / Task Completed | Blockers / Challenges | Resolution |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sprint 9 - Day 1** | Team | Built the About Us page, drafting the company mission and team profiles. | Deciding on final color scheme and brand messaging. | Agreed on responsive, high-contrast theme focused on mobile learning. |
-| **Sprint 9 - Day 2** | Team | Built Products & Services pages highlighting hardware, internet, and IT training packages. | Formatting product cards for small screen sizes. | Used CSS Flexbox/Grid for mobile responsiveness. |
-| **Sprint 9 - Day 3** | Team | Created Contact Page with inquiry form and conducted end-to-end site testing. | Contact form styling alignment. | Fixed form input padding and verified submission layout. |
+| **Sprint 9 - Day 1** | Siphesihle Mkiva & pule dzavana  | Built the About Us page, drafting the company mission and team profiles. | Deciding on final color scheme and brand messaging. | Agreed on responsive, high-contrast theme focused on mobile learning. |
+| **Sprint 9 - Day 2** |Siphesihle Mkiva & tissetso tukane  | Built Products & Services pages highlighting hardware, internet, and IT training packages. | Formatting product cards for small screen sizes. | Used CSS Flexbox/Grid for mobile responsiveness. |
+| **Sprint 9 - Day 3** | jabu mnguni & tumelo masilela & siphesihle mkiva | Created Contact Page with inquiry form and conducted end-to-end site testing. | Contact form styling alignment. | Fixed form input padding and verified submission layout. |
 
 ### 2. Reflection
 > **Reflection:**  
