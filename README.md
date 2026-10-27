@@ -131,18 +131,8 @@ Grade 12
 
 ### 2. Reflection
 > **Reflection:**  
-> Maintaining a master Product Backlog on Trello allowed us to map out the entire website structure—including the About Us, Products, Services, and Contact pages. Prioritizing these items ensured that we had a clear, overarching master list of all required deliverables before breaking them down into active development cycles, preventing scope creep and keeping our business goals focused.
+> Maintaining a master Product Backlog on Trello allowed us to map out the entire website structure—including the About Us, Products, Services, and Contact pages[cite: 12]. Prioritizing these items ensured that we had a clear, overarching master list of all required deliverables before breaking them down into active development cycles, preventing scope creep and keeping our business goals focused[cite: 5].
 
-## Sprint Backlog
 
-### 1. Evidence
-![Sprint Backlog Screenshot]()
-*(Note: Ensure your cropped Trello Sprint Backlog screenshot is saved in your repository's images folder).*
-
-* **Active & Planned Sprints:**
-  * **Sprint 1 (Team Setup & Alignment):** Initial tasks focusing on forming the project team, assigning roles, and reviewing assignment requirements.
-  * **Sprint 2 & 3 (Website Development Sprints):** Granular sprint cycles breaking down the creation of the website pages (About Us, Products, Services, and Contact pages) to ensure incremental, structured progress.
-
-### 2. Reflection
-> **Reflection:**  
+  
 > Structuring our work into discrete sprint cycles provided clear, actionable focus areas. Moving items iteratively into specific sprint columns allowed the team to manage our workflow efficiently, ensuring steady progress toward building a functional business marketing platform.
