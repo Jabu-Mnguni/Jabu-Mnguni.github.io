@@ -90,7 +90,7 @@ Grade 12
 ## Agile Team Charter
 
 ### 1. Evidence (Signed Charter Document)
-![Team Charter Evidence]()
+![Team Charter Evidence](teamcharter.png)
 
 ### 1. Team Purpose & Vision
 * **Why do we exist?:** To bridge the digital divide in under-resourced public high schools in Cape Town.
