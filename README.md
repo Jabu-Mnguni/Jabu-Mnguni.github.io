@@ -86,3 +86,20 @@ Grade 12
 * **Task:** My task was to deploy my project using GitHub Pages to create a functional, public-facing URL.
 * **Action:** I configured the repository settings to enable GitHub Pages, ensuring the main branch was correctly indexed. I verified the deployment by testing the live links and ensuring the Markdown rendered properly as HTML.
 * **Result:** My portfolio is now live and professionally presented. This process taught me the fundamentals of static site hosting and the importance of version control in managing a digital professional profile.
+
+* ## Agile Team Charter
+
+### 1. Project Purpose & Vision
+* **Vision:** To bridge the digital divide in under-resourced public high schools in Cape Town[cite: 5].
+* **Mission:** Providing mobile digital learning services—including hardware setup, internet access, and structured IT training (Microsoft Word, PowerPoint, coding)—for Grade 8-12 learners[cite: 5].
+* **Product/Service:** A business marketing website designed to showcase these services so that prospective clients and schools can view our offerings and send direct inquiries.
+* **Success Definition:** Success is achieved when the platform effectively communicates our service value and drives client inquiries[cite: 5].
+
+### 2. Working Agreements & Workflow
+* Keep the Trello Kanban board updated in real-time as tasks progress[cite: 7].
+* Follow the "Definition of Done" before marking any task as complete[cite: 7, 8].
+* Maintain clear communication channels for managing project deliverables[cite: 7].
+
+### 3. Reflection
+> **Reflection:**  
+> Establishing a clear project charter aligned our daily execution and set shared operational boundaries from day one, minimizing friction and keeping the project focused on its core mission[cite: 4, 6].
