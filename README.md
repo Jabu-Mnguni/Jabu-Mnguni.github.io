@@ -90,16 +90,30 @@ Grade 12
 * ## Agile Team Charter
 
 ### 1. Project Purpose & Vision
-* **Vision:** To bridge the digital divide in under-resourced public high schools in Cape Town[cite: 5].
-* **Mission:** Providing mobile digital learning services—including hardware setup, internet access, and structured IT training (Microsoft Word, PowerPoint, coding)—for Grade 8-12 learners[cite: 5].
+* **Vision:** To bridge the digital divide in under-resourced public high schools in Cape Town.
+* **Mission:** Providing mobile digital learning services—including hardware setup, internet access, and structured IT training (Microsoft Word, PowerPoint, coding)—for Grade 8-12 learners.
 * **Product/Service:** A business marketing website designed to showcase these services so that prospective clients and schools can view our offerings and send direct inquiries.
-* **Success Definition:** Success is achieved when the platform effectively communicates our service value and drives client inquiries[cite: 5].
+* **Success Definition:** Success is achieved when the platform effectively communicates our service value and drives client inquiries.
 
 ### 2. Working Agreements & Workflow
-* Keep the Trello Kanban board updated in real-time as tasks progress[cite: 7].
-* Follow the "Definition of Done" before marking any task as complete[cite: 7, 8].
-* Maintain clear communication channels for managing project deliverables[cite: 7].
+* Keep the Trello Kanban board updated in real-time as tasks progress.
+* Follow the "Definition of Done" before marking any task as complete.
+* Maintain clear communication channels for managing project deliverables.
 
 ### 3. Reflection
 > **Reflection:**  
-> Establishing a clear project charter aligned our daily execution and set shared operational boundaries from day one, minimizing friction and keeping the project focused on its core mission[cite: 4, 6].
+> Establishing a clear project charter aligned our daily execution and set shared operational boundaries from day one, minimizing friction and keeping the project focused on its core mission.
+
+## User Stories and Tasks
+
+### 1. Evidence (User Stories Table)
+
+| User Story ID | As a... (User Role) | I want to... (Action/Goal) | So that... (Benefit/Value) | Associated Tasks |
+| :--- | :--- | :--- | :--- | :--- |
+| **US01** | Prospective Client / School Principal | View the mobile digital learning services offered (hardware, internet, IT training) | I can understand how Tech Empower can support our high school. | • Design Homepage layout<br>• Write service descriptions<br>• Publish content to the site |
+| **US02** | Site Visitor | Fill out an online contact form or send a direct inquiry | I can easily reach out to book services or request a partnership. | • Build contact form UI<br>• Implement validation<br>• Test message submission |
+| **US03** | Site Administrator | Update service details and review incoming client messages | I can keep offerings current and respond to leads promptly. | • Set up backend handler<br>• Create content update workflow |
+
+### 2. Reflection
+> **Reflection:**  
+> Breaking down development into user stories ensured that our web design remained focused on the needs of prospective clients and schools. By mapping features to specific user value, we prioritized essential services like IT training and hardware setup before adding secondary elements.
