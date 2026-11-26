@@ -71,7 +71,7 @@ Grade 12
 
 ---
 ## 🎥 Mock Interview Video
-[Click here to watch my mock interview](https://github.com/Jabu-Mnguni/Jabu-Mnguni.github.io/blob/main/mockinterview.mp4)
+![mock interview](mockinterview.mp4)
 
 ---
 ###  Reflection on Mock Interview Video Experience
