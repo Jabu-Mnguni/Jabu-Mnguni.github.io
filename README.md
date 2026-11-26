@@ -72,7 +72,7 @@ Grade 12
 ---
 ## 🎥 Mock Interview Video
 
-(https://github.com/user-attachments/assets/ea5137d8-9e15-4bc4-b61b-0ed7138e147a)
+![mockinterview](Mockintervieww.mp4)
 
 ---
 ###  Reflection on Mock Interview Video Experience
