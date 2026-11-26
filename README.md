@@ -71,7 +71,7 @@ Grade 12
 
 ---
 ## 🎥 Mock Interview Video
-![mock interview](mockinterview.mp4)
+![mock interview]
 
 ---
 ###  Reflection on Mock Interview Video Experience
